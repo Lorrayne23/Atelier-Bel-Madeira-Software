@@ -1,0 +1,35 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Atelier Bel Madeira
+authors:
+  - family-names: Lopes
+    given-names: Andrey
+  - family-names: Fraga
+    given-names: Leticia
+  - family-names: Silva
+    given-names: Lorrayne
+  - family-names: Oliveira
+    given-names: Richbert
+  - family-names: Iglesias
+    given-names: Sara
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Veloso
+    given-names: Eveline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Baroni
+    given-names: Juliana
+keywords:
+  - Atelier
+  - Rustic
+  - Boho
+  - Wood art
+  - Neutral colors
+  - VueJs
+  - NodeJs
+  - Handicraft
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
