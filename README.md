@@ -1,12 +1,11 @@
 # Atelier Bel Madeira
 
-A artesã transforma madeiras que inicialmente seriam descartadas, seja pela doação de amigos ou encontradas na rua em obras de arte como mesas, quadros, bancos e murais.Tem como fator diferencial a entrega de peças únicas alinhadas com o que o cliente deseja e com o que a mesma enxerga em potencial para a peça.Essa reconhece que uma é uma pessoa multipotencial e muitas vezes utiliza outros artigos na confecção das obras como macramê e crochê.
+The craftswoman transforms wood that would initially be discarded, either by donation from friends or found on the street, into works of art such as tables, paintings, benches and murals. which she sees as potential for the piece. This recognizes that one is a multipotential person and often uses other items in the making of works such as macramé and crochet.
+
+The main motivation for the project revolves around the company not using a web channel to publicize its product portfolio, feeling outdated with the current market and wanting to adapt and modify its way of making and managing sales, in the which can organize their works, attract new customers and improve the communication channel with them
 
 
-A principal motivação do projeto gira em torno da não utilização de um canal web pela companhia para a divulgação de seu portfólio de produtos, se sentindo desatualizada com o mercado atual e com desejo de se adequar e modificar sua maneira de realizar  e gerir vendas, no qual possa organizar suas obras, atrair novos clientes e melhorar o canal de comunicação com esses.
-
-
-## Alunos integrantes da equipe
+## Students
 
 * Andrey Vieira Lopes
 * Letícia De Assis Fraga
@@ -14,11 +13,8 @@ A principal motivação do projeto gira em torno da não utilização de um cana
 * Richbert Stephano de Faria Oliveira
 * Sara Lourenço Iglesias
 
-## Professores responsáveis
+## Teachers
 
 * Eveline Alonso Veloso
 * Juliana Amaral Baroni de Carvalho
 
-## Instruções de utilização
-
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
