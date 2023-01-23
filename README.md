@@ -1,3 +1,4 @@
+<div align="justify">
 # Atelier Bel Madeira
 
 The craftswoman transforms wood that would initially be discarded, either by donation from friends or found on the street, into works of art such as tables, paintings, benches and murals. which she sees as potential for the piece. This recognizes that one is a multipotential person and often uses other items in the making of works such as macramé and crochet.
@@ -18,3 +19,4 @@ The main motivation for the project revolves around the company not using a web 
 * Eveline Alonso Veloso
 * Juliana Amaral Baroni de Carvalho
 
+<div>
